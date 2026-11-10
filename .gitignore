@@ -31,3 +31,4 @@ guardvision.db
 # Logs
 *.log
 .vercel
+graphify-out/
